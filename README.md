@@ -38,4 +38,4 @@ O código segue este fluxo inteligente:
 </table>
 
 
-*Desenvolvido como parte do aprendizado de lógica e manipulação de interface no SENAI.*
+*Projeto desenvolvido para fins didáticos no SENAI Jandira.*
